@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 30 May 2014 21:56:55 +0800</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2014/05/30/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/05/30/welcome-to-jekyll/</guid>
+      </item>
+    
+      <item>
+        <title>从零开始建立推荐系统</title>
+        <description>&lt;h1 id=&quot;section&quot;&gt;从零开始建立推荐系统&lt;/h1&gt;
+&lt;p&gt;本序列文章介绍如何从零开始建立一个简单的推荐系统。当然，现在网上推荐算法层出不穷，这里只是抛砖引玉吧。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;涉及到的技术&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;语言：Scala&lt;/li&gt;
+  &lt;li&gt;web: Boostrap + Unfiltered&lt;/li&gt;
+  &lt;li&gt;db: Mongodb&lt;/li&gt;
+  &lt;li&gt;搜索技术：ElasticSearch&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;outline&quot;&gt;Outline&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;推荐引擎简介&lt;/li&gt;
+  &lt;li&gt;协同过滤&lt;/li&gt;
+  &lt;li&gt;网站＋搜索&lt;/li&gt;
+  &lt;li&gt;Item Based Recommendation算法&lt;/li&gt;
+  &lt;li&gt;基于ElasticSearch实现推荐&lt;/li&gt;
+  &lt;li&gt;下一步&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 30 May 2014 21:56:55 +0800</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2014/05/30/recsys-part-1/</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/05/30/recsys-part-1/</guid>
+      </item>
+    
+  </channel>
+</rss>
