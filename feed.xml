@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <title>推荐引擎 @ Scala</title>
+    <description>介绍Scala编程，推荐引擎相关</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
     
@@ -23,8 +23,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </description>
         <pubDate>Fri, 30 May 2014 21:56:55 +0800</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2014/05/30/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/05/30/welcome-to-jekyll/</guid>
+        <link>http://yourdomain.com/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/welcome-to-jekyll.html</guid>
       </item>
     
       <item>
@@ -51,8 +51,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 30 May 2014 21:56:55 +0800</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2014/05/30/recsys-part-1/</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/05/30/recsys-part-1/</guid>
+        <link>http://yourdomain.com/recsys-part-1.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/recsys-part-1.html</guid>
       </item>
     
   </channel>
